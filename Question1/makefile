@@ -10,6 +10,8 @@ factorial.out : No3/calcfactorial.c  No3/mainfactorial.c
 nCm.out : No4/calcnCm.c  No4/mainnCm.c  
 	gcc -o nCm.out No4/calcnCm.c  No4/mainnCm.c  
 
+clean : 
+	rm nCm.out factorial.out pai1overksq.out sigmasq.out
 
 
 
