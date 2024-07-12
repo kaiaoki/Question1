@@ -24,3 +24,5 @@ nCmを計算するとき、m>nだと計算できないので、m>nだとエラ�
 また、計算は、nCm=n!/(n-m)!m! を使って計算している。４つの変数A,B,C,Dを用意し、Aにn!,Bに(n-m)!,Cにm!を代入して、D=A/B*Cを関数の戻り値としている。
 ```
 [![](./imagequestion1/question1no4.png)](./imagequestion1/question1no4.png)
+
+## 20240712山田編集
